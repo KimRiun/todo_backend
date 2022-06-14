@@ -5,7 +5,7 @@
 https://poised-mandible-7e9.notion.site/0b405df2532e4c7a8bdc85d1f10b74cb?v=bbc79126362745f59a34e1734aae04bc
 
 
-PostgreSQL
+- PostgreSQL
 
 이유: 
 
